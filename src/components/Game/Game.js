@@ -73,7 +73,7 @@ class Game extends Component {
     return (
       <div>
         <Nav score={this.state.score} topScore={this.state.topScore} />
-        <Header />
+        {/* <Header /> */}
         <Container>
           {this.state.data.map(item => (
             <ClickItem
