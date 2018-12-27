@@ -21,7 +21,13 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
-  <title>Clicky Game!</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="./app.js"></script>
+  <link rel="stylesheet" href="./app.css">
+
+  <title>Memory Game!</title>
 </head>
 
 <body>
@@ -39,6 +45,29 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+
+    <!-- Modal -->
+  <div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Welcome to the Memory Game!</h4>
+        </div>
+        <div class="modal-body">
+          <p>Starring..... The cast of The Dirty Dozen!</p>
+          <p>Click an image and the cards will shuffle.</p>
+          <p>Try to remember which ones you've clicked and be careful not to click any more than once!</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-success" data-dismiss="modal">Begin</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
 </body>
 
 </html>
