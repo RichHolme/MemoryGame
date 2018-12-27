@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/beth.png",
+    "image": "/assets/images/borgnine.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/birdperson.png",
+    "image": "/assets/images/bronson.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/evilmorty.png",
+    "image": "/assets/images/brown.jpg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/gianthead.png",
+    "image": "/assets/images/cassavetes.jpg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/goldenford.png",
+    "image": "/assets/images/jaeckel.jpg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/assets/images/jerry.png",
+    "image": "/assets/images/kennedy.jpg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/jessica.png",
+    "image": "/assets/images/marvin.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/meeseeks.png",
+    "image": "/assets/images/ryan.jpg",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/assets/images/morty.png",
+    "image": "/assets/images/savalas.jpg",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/assets/images/mr.png",
+    "image": "/assets/images/sutherland.jpg",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/assets/images/rick.png",
+    "image": "/assets/images/walker.jpg",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/assets/images/summer.png",
+    "image": "/assets/images/meeker.jpg",
     "clicked": false
   }
 ]
